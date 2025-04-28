@@ -2,33 +2,49 @@
 	: Pressure wash all of car, top to bottom, with clear water. Include jambs
 	: of doors and trunk and fuel door. Include undercarriage.
 [_] Stripping touch wash
-	: With a bucket of dish soap and a bucket of clear rinse water, work top
-	: to bottom. Include jambs of doors and trunk and fuel door. Pressure
+	: With a bucket of dish soap water and a bucket of clear rinse water, work
+	: top to bottom. Include jambs of doors and trunk and fuel door. Pressure
 	: rinse.
 [_] Clean wheels
 	: Using wheel cleaner, clean rims and exposed tire sidewalls. Pressure
 	: rinse.
 [_] Protectant on soft materials
+	: Done before detailing so any sloppy application is cleaned up. TODO will
+	: detailing after protectant remove too much protectant?
 	[_] Trim
-		: Once dry (by air, towel if surfaces still wet), apply a vinyl and
-		: rubber protectant to all exterior surfaces that aren't painted or
-		: glass. Let soak in. Wipe off excess.
+		: Once fully air dry (work on interior if drying time is needed),
+		: apply a vinyl and rubber protectant to all exterior surfaces that
+		: aren't painted or glass. Let soak in. Wipe off excess.
 	[_] Tires
-		: Once dry (by air, towel if surfaces still wet), apply tire shine
-		: protectant to exposed tire sidewalls. Let soak in. Wipe off excess.
+		: Once dry, apply tire shine protectant to exposed tire sidewalls. Let
+		: soak in. Wipe off excess.
 [_] Detail paint and glass, top to bottom
-	: Top to bottom, in phases to use available blocks of time so that partial
-	: completion gets parts of the car complete and waxed, including jambs of
-	: doors and trunk, fuel door, and rims:
+	: Top to bottom, work in sections to use available blocks of time so that
+	: panels of the car are complete and waxed by the end of a given session,
+	: instead of leaving things un-waxed to get dirty again between sessions.
+	: Including jambs of doors and trunk, fuel door, and rims.
 	[_] Clay bar
 		: Clay bar paint and glass using diluted dish soap as a lubricant
 	[_] Pressure rinse
 	[_] Towel dry
-	[_] Correct paint as required
-		: In affected spots, correct paint as required and resources
-		: permitting. Compound and polish. Prepend more drastic measures
-		: (strip, touch up paint, wet sand) as required. Spot soap, rinse,
-		: towel dry.
+	[_] Correct paint as needed
+		: Enter this having done any paint touch-up, allowing 30+ days for the
+		: touch-up paint to cure; see touch_up.otl.
+		[_] Wet sand out shallow clear coat scratches
+			: Dam off with tape parallel to scratch, about 1 inch on either
+			: end. Wet sand with 3000 grit wet/dry sandpaper and soapy water
+			: as a lubricant perpendicular to scratch until there's a uniform
+			: haze. Move tape to 2 inches on either end. Wet sand with 5000
+			: grit wet/dry sandpaper.
+		[_] Coarse compound
+			: Compound damaged areas, using a product like Griot's Fast
+			: Correcting Cream with a pad like the white Fast Correcting Foam
+			: pad and moderately feathering into good paint.
+		[_] Fine compound
+			: Use a gentle polishing compound like Griot's Perfecting Cream
+			: with a pad like the yellow Perfecting Foam pad over entire body
+			: panel.
+		[_] Clean-up soap, rinse, towel dry
 	[_] Clean glass
 		: Apply and wipe off glass cleaner. Roll down windows a fraction to
 		: get the tops.
