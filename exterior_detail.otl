@@ -30,21 +30,23 @@
 	[_] Correct paint as needed
 		: Enter this having done any paint touch-up, allowing 30+ days for the
 		: touch-up paint to cure; see touch_up.otl.
-		[_] Wet sand out shallow clear coat scratches
+		[_] Wet sand out major clear coat scratches
 			: Dam off with tape parallel to scratch, about 1 inch on either
-			: end. Wet sand with 3000 grit wet/dry sandpaper and soapy water
+			: end. Wet sand with 1500 grit wet/dry sandpaper and soapy water
 			: as a lubricant perpendicular to scratch until there's a uniform
-			: haze. Move tape to 2 inches on either end. Wet sand with 5000
+			: haze. Move tape to 2 inches on either end. Wet sand with 3000
 			: grit wet/dry sandpaper.
 		[_] Coarse compound
-			: Compound damaged areas, using a product like Griot's Fast
-			: Correcting Cream with a pad like the white Fast Correcting Foam
-			: pad and moderately feathering into good paint.
+			: Compound areas with visible blemishes that are minor enough not
+			: to need sanding, using a product like Griot's Fast Correcting
+			: Cream with a dual action polisher and a pad like the white
+			: Fast Correcting Foam pad and moderately feathering into good
+			: paint.
 		[_] Fine compound
 			: Use a gentle polishing compound like Griot's Perfecting Cream
-			: with a pad like the yellow Perfecting Foam pad over entire body
-			: panel.
-		[_] Clean-up soap, rinse, towel dry
+			: with a dual action polisher and a pad like the yellow Perfecting
+			: Foam pad over entire body panel.
+		[_] Clean-up: soap, rinse, towel dry
 	[_] Clean glass
 		: Apply and wipe off glass cleaner. Roll down windows a fraction to
 		: get the tops.
