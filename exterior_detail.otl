@@ -1,58 +1,78 @@
 [_] Touchless pressure rinse
 	: Pressure wash all of car, top to bottom, with clear water. Include jambs
-	: of doors and trunk and fuel door. Include undercarriage.
+	: of doors and trunk and fuel door. Use undercarriage attachment to rinse
+	: out undercarriage.
 [_] Stripping touch wash
 	: With a bucket of dish soap water and a bucket of clear rinse water, work
-	: top to bottom. Include jambs of doors and trunk and fuel door. Pressure
-	: rinse.
-[_] Clean wheels
-	: Using wheel cleaner, clean rims and exposed tire sidewalls. Pressure
-	: rinse.
-[_] Protectant on soft materials
-	: Done before detailing so any sloppy application is cleaned up. TODO will
-	: detailing after protectant remove too much protectant?
-	[_] Trim
-		: Once fully air dry (work on interior if drying time is needed),
-		: apply a vinyl and rubber protectant to all exterior surfaces that
-		: aren't painted or glass. Let soak in. Wipe off excess.
-	[_] Tires
-		: Once dry, apply tire shine protectant to exposed tire sidewalls. Let
-		: soak in. Wipe off excess.
+	: top to bottom, using a wash mitt to agitate. Include jambs of doors and
+	: trunk and fuel door. Swabs are helpful on confined stuff in the door
+	: hinges. Pressure rinse.
+[_] Clean wheels; dress tires
+	[_] Clean and rinse tire sidewalls until foam is white
+		: Can use harsh household-type brush on sidewalls. Use safe brushes on
+		: the rim and lug wells, removing grime and brake dust.
+	[_] Wipe or air dry
+	[_] Degrease sidewalls with mineral spirits-soaked disposable rag
+	[_] Apply 1-2 coats Armour Ghost with foam applicator
+		: Allow 10 minutes between coats. Immediately wipe off any sealant
+		: that gets onto the rims. My experience is that 2 coats makes it nice
+		: and even. It will be annoyingly glossy for the first week or so but
+		: mellows out to a nice satin subsequently.
+	[_] Let dry at least 1 hour
+[_] Apply protectant on trim
+	: Done before detailing so any sloppy application is cleaned up. See
+	: trim_restoration.otl for deeper restoration of faded trim; this is meant
+	: for trim in decent, non-faded condition. TODO will detailing steps after
+	: protectant remove too much protectant?
+	:
+	: Once fully air dry (work on interior if drying time is needed), using a
+	: microfiber sponge applicator, apply a vinyl and rubber protectant to all
+	: exterior surfaces that aren't painted or glass, including door and trunk
+	: gaskets. Let soak in. Wipe off excess with microfiber towel.
 [_] Detail paint and glass, top to bottom
 	: Top to bottom, work in sections to use available blocks of time so that
 	: panels of the car are complete and waxed by the end of a given session,
 	: instead of leaving things un-waxed to get dirty again between sessions.
-	: Including jambs of doors and trunk, fuel door, and rims.
+	: Include jambs of doors and trunk, fuel door, and rims.
 	[_] Clay bar
 		: Clay bar paint and glass using diluted dish soap as a lubricant
 	[_] Pressure rinse
 	[_] Towel dry
+		: Use drying towels that are kept segregated from general-purpose
+		: microfiber towels
 	[_] Correct paint as needed
 		: Enter this having done any paint touch-up, allowing 30+ days for the
 		: touch-up paint to cure; see touch_up.otl.
+		[_] Polish entire panels to isolate bigger paint correction tasks
+			: Use a gentle polishing compound like Griot's Perfecting Cream
+			: with a dual action polisher and a pad like the yellow Perfecting
+			: Foam pad.
 		[_] Wet sand out major clear coat scratches
 			: Dam off with tape parallel to scratch, about 1 inch on either
 			: end. Wet sand with 1500 grit wet/dry sandpaper and soapy water
 			: as a lubricant perpendicular to scratch until there's a uniform
-			: haze. Move tape to 2 inches on either end. Wet sand with 3000
-			: grit wet/dry sandpaper.
+			: haze.
 		[_] Coarse compound
-			: Compound areas with visible blemishes that are minor enough not
-			: to need sanding, using a product like Griot's Fast Correcting
-			: Cream with a dual action polisher and a pad like the white
-			: Fast Correcting Foam pad and moderately feathering into good
-			: paint.
-		[_] Fine compound
-			: Use a gentle polishing compound like Griot's Perfecting Cream
+			: Along with any wet-sanded areas, compound areas with visible
+			: blemishes that are minor enough not to need sanding, using a
+			: product like Griot's Fast Correcting Cream with a dual action
+			: polisher and a pad like the white Fast Correcting Foam pad and
+			: moderately feathering into good paint.
+		[_] Re-polish
+			: Using a gentle polishing compound like Griot's Perfecting Cream
 			: with a dual action polisher and a pad like the yellow Perfecting
-			: Foam pad over entire body panel.
+			: Foam pad, go back over corrected areas to blend them.
 		[_] Clean-up: soap, rinse, towel dry
+	[_] Panel prep
+		: Spray on ~40% isopropyl alcohol. Wipe dry with segregated clean
+		: microfiber.
 	[_] Clean glass
-		: Apply and wipe off glass cleaner. Roll down windows a fraction to
-		: get the tops.
-	[_] Wax
-		: Apply, let sit as directed, buff off. Roll down windows a fraction
-		: to get the tops.
+		: Apply glass cleaner and wipe off using glass towel. Roll down
+		: windows a fraction to get the tops.
+	[_] Protect
+		: Apply spray sealant, wipe to spread, let sit as directed, buff off.
+		: Roll down windows a fraction to get the tops. TODO: Would love to
+		: try glass-bottle ceramic coatings someday.
 [_] Clean interior glass
 	: Apply and wipe off class cleaner throughout the interior to achieve
 	: desired optical effect for window glass.
