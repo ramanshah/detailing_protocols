@@ -1,15 +1,19 @@
-: 2025-01-11 A listing of my preferred protocol to make a car look a bit nicer
-: in a time-bound way, like when a loved one is visiting and can leave their
-: car with me for one afternoon. The assumption is that the car is not
-: regularly maintained for any kind of cleanliness, which means this protocol
-: sacrifices some things I do frequently (esp actually washing the car with a
-: surfactant) to make time to touch both the interior and exterior and do
-: high-impact but infrequent work (esp cleaning the wheels).
-[_] Rinse the exterior with pressure washer
-[_] Clean and rinse wheels
+: A listing of my preferred protocol to make a car look a bit nicer in a
+: time-bound way, like when a loved one is visiting and can leave their car
+: with me for one afternoon. The assumption is that the car is not regularly
+: maintained for any kind of cleanliness. This means I do some high-impact but
+: infrequent work like cleaning the wheels.
+[_] Rinse the exterior, including undercarriage, with pressure washer
+[_] Wash exposed paint with wax-safe carwash
+	: Don't include a deeper clean into the jambs, fuel tank door, etc.
+[_] Clean and rinse wheels with rim and tire cleaner
 [_] Clean exterior glass
+[_] Remove clutter from interior; triage into trash and belongings
+[_] Vacuum interior in sections
+	: Go into one door at a time and clean that quadrant top to bottom
+	[_] Vacuum hard surfaces with detailing brush agitation
+	[_] Vacuum upholstery or seams in leather seats
+	[_] Vacuum carpet
+[_] Wipe down cockpit area hard surfaces with damp microfiber
 [_] Clean interior glass
 	: Roll down windows a fraction to get the tops
-[_] Wipe down driver's area hard surfaces with damp microfiber
-[_] Declutter interior
-[_] Vacuum interior
