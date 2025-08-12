@@ -1,19 +1,28 @@
 : A listing of my preferred protocol to make a car look a bit nicer in a
 : time-bound way, like when a loved one is visiting and can leave their car
-: with me for one afternoon. The assumption is that the car is not regularly
-: maintained for any kind of cleanliness. This means I do some high-impact but
-: infrequent work like cleaning the wheels.
+: with me for ~4 hours. The assumption is that the car is not regularly
+: maintained for any kind of cleanliness. The scope here is essentially
+: frequent exterior wash + cleaning the wheels + frequent interior cleanup.
 [_] Rinse the exterior, including undercarriage, with pressure washer
-[_] Wash exposed paint with wax-safe carwash
+[_] Wash exposed paint with wax-safe carwash using two-bucket method
 	: Don't include a deeper clean into the jambs, fuel tank door, etc.
 [_] Clean and rinse wheels with rim and tire cleaner
+[_] Towel dry with microfiber
+	: Reduces water marks
 [_] Clean exterior glass
 [_] Remove clutter from interior; triage into trash and belongings
-[_] Vacuum interior in sections
+[_] Clean non-upholstered floor mats, trunk liners, etc
+	[_] Remove from car
+	[_] Pressure rinse
+	[_] Brush with all purpose cleaner
+	[_] Pressure rinse
+	[_] Stand up to dry outside
+[_] Clean interior in sections
 	: Go into one door at a time and clean that quadrant top to bottom
 	[_] Vacuum hard surfaces with detailing brush agitation
 	[_] Vacuum upholstery or seams in leather seats
 	[_] Vacuum carpet
-[_] Wipe down cockpit area hard surfaces with damp microfiber
+	[_] Wipe down hard surfaces with damp microfiber
 [_] Clean interior glass
 	: Roll down windows a fraction to get the tops
+[_] Replace air dried floor mats, trunk liners, etc
