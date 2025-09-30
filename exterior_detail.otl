@@ -8,7 +8,7 @@
 	: trunk and fuel door. Swabs are helpful on confined stuff in the door
 	: hinges. Pressure rinse.
 [_] Clean wheels; dress tires
-	[_] Clean and rinse tire sidewalls until foam is white
+	[_] Clean rims and tires, rinsing sidewalls until foam is white
 		: Can use harsh household-type brush on sidewalls. Use safe brushes on
 		: the rim and lug wells, removing grime and brake dust.
 	[_] Wipe or air dry
@@ -40,13 +40,14 @@
 	[_] Towel dry
 		: Use drying towels that are kept segregated from general-purpose
 		: microfiber towels
-	[_] Correct paint as needed
+	[_] Correct paint as desired
 		: Enter this having done any paint touch-up, allowing 30+ days for the
 		: touch-up paint to cure; see touch_up.otl.
-		[_] Polish entire panels to isolate bigger paint correction tasks
+		[_] Polish as desired
 			: Use a gentle polishing compound like Griot's Perfecting Cream
 			: with a dual action polisher and a pad like the yellow Perfecting
-			: Foam pad.
+			: Foam pad. A liberal use of polishing helps scope out heavier
+			: paint correction tasks.
 		[_] Wet sand out major clear coat scratches
 			: Dam off with tape parallel to scratch, about 1 inch on either
 			: end. Wet sand with 1500 grit wet/dry sandpaper and soapy water
@@ -61,7 +62,8 @@
 		[_] Re-polish
 			: Using a gentle polishing compound like Griot's Perfecting Cream
 			: with a dual action polisher and a pad like the yellow Perfecting
-			: Foam pad, go back over corrected areas to blend them.
+			: Foam pad, go back over corrected areas to blend them, moderately
+			: feathering into pre-polished paint.
 		[_] Clean-up: soap, rinse, towel dry
 	[_] Panel prep
 		: Spray on ~40% isopropyl alcohol. Wipe dry with segregated clean
