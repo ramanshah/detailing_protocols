@@ -1,33 +1,51 @@
+: Validated on Suburu 2025-10-06
 [_] Work on a cool car
 [_] Remove battery; wipe clean battery out of the car
 [_] Vacuum + brush loose material (e.g., leaves in the cowl, loose dust)
 [_] Wipe clean then bag sensitive components
-	: Examples: the alternator, exposed air intakes
+	: Examples: the alternator, exposed air intakes. Often, a disposable
+	: shower cap is a good form factor for bagging stuff.
 [_] Clean underside of hood, engine bay jambs, working around any hood padding
 	[_] Pre-rinse with pressure washer
 		: Use a wide fan and keep a respectful distance
-	[_] Mist on all purpose cleaner generously
-		: For example: Koch Chemie Green Star/Gs 1:5
+	[_] Mist on degreaser generously
+		: e.g., Koch Chemie Green Star/Gs 1:5
 	[_] Layer on top a soap foam to improve dwell time
-		: Examples: Koch Chemie Active Foam/Af 1:10, diluted dish soap
+		: e.g., Koch Chemie Active Foam/Af 1:15 in a foam cannon
 	[_] Agitate with brush
 	[_] Rinse
 [_] Clean exposed components in engine bay
+	: Work in stages to avoid cleaner/foam drying; for example, driver half, passenger
+	: half.
 	[_] Pre-rinse with pressure washer
 		: Use a wide fan and keep a respectful distance
-	[_] Mist on all purpose cleaner generously
-		: For example: Koch Chemie Green Star/Gs 1:5
+	[_] Mist on degreaser generously
+		: e.g., Koch Chemie Green Star/Gs 1:5
 	[_] Layer on top a soap foam to improve dwell time
-		: Examples: Koch Chemie Active Foam/Af 1:10, diluted dish soap
+		: e.g., Koch Chemie Active Foam/Af 1:15 in a foam cannon
 	[_] Agitate with brushes
 		: Use wheel barrel brush type tools to go far down
 	[_] Rinse
 	[_] Use blow gun to splash off any pooling water
 [_] Protect engine bay components
-	[_] Apply Koch Chemie Motorplast/Mp onto engine bay components
-		: This protectant can be applied while engine bay is still wet to
-		: speed up the process
-	[_] Close the hood
-	[_] A few hours later, level any excess protectant with a microfiber towel
+	: Generously blanket the still-wet clean engine bay with Koch Chemie Motor
+	: Plast/Mp.  Wipe a layer of protectant onto the hood gaskets/seals.
 [_] Remove bags from sensitive components
+	: Wipe a layer of protectant onto the surfaces that had been bagged.
 [_] Replace battery
+	: Ideally, this is done after the engine bay is dry. But if the car needs
+	: to be promptly moved (e.g. to the garage, to end the day, and tidy up
+	: the detail the following morning), which is often the typical case, this
+	: sequencing allows the car to be started. Wipe up the battery area with a
+	: dry microfiber, install the battery, connect the terminals.
+[_] Once air dry, tidy up the detail
+	[_] Inspect the engine bay, wiping as needed with a microfiber towel
+		: Level/remove excess protectant; remove superficial dirt that was
+		: missed
+	[_] Spot clean missed areas as needed
+		: Pay special attention to contrast colors - fluid caps and dipsticks,
+		: shiny metal fluid lines, etc.
+		[_] Brush with a detailing brush soaked in degreaser
+			: e.g., Koch Chemie Green Star/Gs 1:5 or 1:10
+		[_] Mist the area with clean water
+		[_] Wipe dry with microfiber towel
