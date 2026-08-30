@@ -1,3 +1,4 @@
+: 2026-8-30 Validated this protocol on the Subaru.
 [_] Touchless pressure rinse
 	: Pressure wash all of car, top to bottom, with clear water. Include jambs
 	: of doors and trunk and fuel door. Use undercarriage attachment to rinse
@@ -6,7 +7,8 @@
 	: With a bucket of dish soap water and a bucket of clear rinse water, work
 	: top to bottom, using a wash mitt to agitate. Include jambs of doors and
 	: trunk and fuel door. Swabs are helpful on confined stuff in the door
-	: hinges. Pressure rinse.
+	: hinges. A spray bottle of water is helpful for rinsing in the jambs.
+	: Pressure rinse.
 [_] Clean wheels; dress tires
 	[_] Clean rims and tires, rinsing sidewalls until foam is white
 		: Can use harsh household-type brush on sidewalls. Use safe brushes on
@@ -22,20 +24,21 @@
 [_] Apply protectant on trim
 	: Done before detailing so any sloppy application is cleaned up. See
 	: trim_restoration.otl for deeper restoration of faded trim; this is meant
-	: for trim in decent, non-faded condition. TODO will detailing steps after
-	: protectant remove too much protectant?
+	: for trim in decent, non-faded condition.
 	:
-	: Once fully air dry (work on interior if drying time is needed), using a
-	: microfiber sponge applicator, apply a vinyl and rubber protectant to all
-	: exterior surfaces that aren't painted or glass, including door and trunk
-	: gaskets. Let soak in. Wipe off excess with microfiber towel.
+	: Once car is fully air dry (work on interior if drying time is needed),
+	: using a microfiber sponge applicator, apply a vinyl and rubber
+	: protectant to all exterior surfaces that aren't painted or glass,
+	: including door and trunk gaskets. Let soak in. Wipe off excess with
+	: microfiber towel.
 [_] Detail paint and glass, top to bottom
 	: Top to bottom, work in sections to use available blocks of time so that
 	: panels of the car are complete and waxed by the end of a given session,
-	: instead of leaving things un-waxed to get dirty again between sessions.
+	: instead of leaving things uncoated to get dirty again between sessions.
 	: Include jambs of doors and trunk, fuel door, and rims.
 	[_] Clay bar
-		: Clay bar paint and glass using diluted dish soap as a lubricant
+		: Clay bar paint and glass using diluted dish soap or ONR as a
+		: lubricant
 	[_] Pressure rinse
 	[_] Towel dry
 		: Use drying towels that are kept segregated from general-purpose
@@ -46,24 +49,27 @@
 		[_] Polish as desired
 			: Use a gentle polishing compound like Griot's Perfecting Cream
 			: with a dual action polisher and a pad like the yellow Perfecting
-			: Foam pad. A liberal use of polishing helps scope out heavier
+			: foam pad. A liberal use of polishing helps scope out heavier
 			: paint correction tasks.
 		[_] Wet sand out major clear coat scratches
 			: Dam off with tape parallel to scratch, about 1 inch on either
-			: end. Wet sand with 1500 grit wet/dry sandpaper and soapy water
-			: as a lubricant perpendicular to scratch until there's a uniform
-			: haze.
+			: end. Wet sand with 1500 grit wet/dry sandpaper on a foam sanding
+			: block and soapy water as a lubricant. Work perpendicular to
+			: scratch until there's a uniform haze. Dam off about 2 inches on
+			: either end. Wet sand similarly with 3000 grit wet/dry sandpaper
+			: to refine.
 		[_] Coarse compound
 			: Along with any wet-sanded areas, compound areas with visible
 			: blemishes that are minor enough not to need sanding, using a
 			: product like Griot's Fast Correcting Cream with a dual action
-			: polisher and a pad like the white Fast Correcting Foam pad and
+			: polisher and a pad like the white Fast Correcting foam pad and
 			: moderately feathering into good paint.
 		[_] Re-polish
 			: Using a gentle polishing compound like Griot's Perfecting Cream
 			: with a dual action polisher and a pad like the yellow Perfecting
 			: Foam pad, go back over corrected areas to blend them, moderately
-			: feathering into pre-polished paint.
+			: feathering into pre-polished paint. (This is optional; Fast
+			: Correcting often gives an excellent finish on its own.)
 		[_] Clean-up: soap, rinse, towel dry
 	[_] Panel prep
 		: Spray on ~40% isopropyl alcohol. Wipe dry with segregated clean
@@ -72,9 +78,7 @@
 		: Apply glass cleaner and wipe off using glass towel. Roll down
 		: windows a fraction to get the tops.
 	[_] Protect
-		: Apply spray sealant, wipe to spread, let sit as directed, buff off.
-		: Roll down windows a fraction to get the tops. TODO: Would love to
-		: try glass-bottle ceramic coatings someday.
+		: Apply spray sealant or ceramic coating and buff off per product labeling.
 [_] Clean interior glass
 	: Apply and wipe off class cleaner throughout the interior to achieve
 	: desired optical effect for window glass.
